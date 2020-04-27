@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="51" started-at="2020-04-27T12:32:33 EDT" finished-at="2020-04-27T12:32:33 EDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="51" started-at="2020-04-27T12:32:33 EDT" finished-at="2020-04-27T12:32:33 EDT">
+      <class name="Criglist.TestClass2">
+        <test-method status="PASS" signature="a1()[pri:0, instance:Criglist.TestClass2@4bec1f0c]" name="a1" duration-ms="0" started-at="2020-04-27T12:32:33 EDT" finished-at="2020-04-27T12:32:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="a2()[pri:0, instance:Criglist.TestClass2@4bec1f0c]" name="a2" duration-ms="0" started-at="2020-04-27T12:32:33 EDT" finished-at="2020-04-27T12:32:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a2 -->
+        <test-method status="PASS" signature="a3()[pri:0, instance:Criglist.TestClass2@4bec1f0c]" name="a3" duration-ms="0" started-at="2020-04-27T12:32:33 EDT" finished-at="2020-04-27T12:32:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method status="PASS" signature="a4()[pri:0, instance:Criglist.TestClass2@4bec1f0c]" name="a4" duration-ms="1" started-at="2020-04-27T12:32:33 EDT" finished-at="2020-04-27T12:32:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a4 -->
+      </class> <!-- Criglist.TestClass2 -->
+      <class name="Criglist.TestClass1">
+        <test-method status="PASS" signature="a1()[pri:0, instance:Criglist.TestClass1@73846619]" name="a1" duration-ms="7" started-at="2020-04-27T12:32:33 EDT" finished-at="2020-04-27T12:32:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method status="PASS" signature="a2()[pri:0, instance:Criglist.TestClass1@73846619]" name="a2" duration-ms="0" started-at="2020-04-27T12:32:33 EDT" finished-at="2020-04-27T12:32:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a2 -->
+        <test-method status="PASS" signature="a3()[pri:0, instance:Criglist.TestClass1@73846619]" name="a3" duration-ms="1" started-at="2020-04-27T12:32:33 EDT" finished-at="2020-04-27T12:32:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method status="PASS" signature="a4()[pri:0, instance:Criglist.TestClass1@73846619]" name="a4" duration-ms="0" started-at="2020-04-27T12:32:33 EDT" finished-at="2020-04-27T12:32:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a4 -->
+      </class> <!-- Criglist.TestClass1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
