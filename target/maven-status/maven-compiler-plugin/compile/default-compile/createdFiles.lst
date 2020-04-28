@@ -7,4 +7,5 @@ PageObject\LogInPage.class
 PageObject\LandingPage.class
 Common\Listeners.class
 Common\TestBase.class
+Common\TestUtility.class
 PageObject\AccountPage2.class

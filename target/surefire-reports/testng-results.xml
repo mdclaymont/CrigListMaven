@@ -1,47 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
   <reporter-output>
+    <line>
+      <![CDATA[******************************************Get Data Imported Staretd******************************************]]>
+    </line>
+    <line>
+      <![CDATA[******************************************Get Data Imported Ended******************************************]]>
+    </line>
+    <line>
+      <![CDATA[**************************************** initilize Driver MEthod Started ******************************************]]>
+    </line>
+    <line>
+      <![CDATA[**************************************** initilize Driver MEthod Ended ******************************************]]>
+    </line>
+    <line>
+      <![CDATA[******************************************Url Open Strated******************************************]]>
+    </line>
+    <line>
+      <![CDATA[******************************************Url Open Ended******************************************]]>
+    </line>
+    <line>
+      <![CDATA[******************************************Validate Url Strated******************************************]]>
+    </line>
+    <line>
+      <![CDATA[******************************************Validate Url Ended******************************************]]>
+    </line>
+    <line>
+      <![CDATA[******************************************Get Data From Excel Started******************************************]]>
+    </line>
+    <line>
+      <![CDATA[******************************************Get Data From Excel Ended******************************************]]>
+    </line>
+    <line>
+      <![CDATA[****************************************** Expected Browser Close Started ******************************************]]>
+    </line>
+    <line>
+      <![CDATA[******************************************Expected Browser Closed ******************************************]]>
+    </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="55" started-at="2020-04-28T15:06:40 EDT" finished-at="2020-04-28T15:06:40 EDT">
+  <suite name="Suite" duration-ms="38694" started-at="2020-04-28T15:19:36 EDT" finished-at="2020-04-28T15:20:15 EDT">
     <groups>
     </groups>
-    <test name="Test" duration-ms="55" started-at="2020-04-28T15:06:40 EDT" finished-at="2020-04-28T15:06:40 EDT">
+    <test name="Test" duration-ms="38694" started-at="2020-04-28T15:19:36 EDT" finished-at="2020-04-28T15:20:15 EDT">
       <class name="Criglist.TestClass2">
-        <test-method status="PASS" signature="a1()[pri:0, instance:Criglist.TestClass2@18bf3d14]" name="a1" duration-ms="8" started-at="2020-04-28T15:06:40 EDT" finished-at="2020-04-28T15:06:40 EDT">
+        <test-method status="PASS" signature="a1()[pri:0, instance:Criglist.TestClass2@313b2ea6]" name="a1" duration-ms="1" started-at="2020-04-28T15:19:55 EDT" finished-at="2020-04-28T15:19:55 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a1 -->
-        <test-method status="PASS" signature="a2()[pri:0, instance:Criglist.TestClass2@18bf3d14]" name="a2" duration-ms="0" started-at="2020-04-28T15:06:40 EDT" finished-at="2020-04-28T15:06:40 EDT">
+        <test-method status="PASS" signature="a2()[pri:0, instance:Criglist.TestClass2@313b2ea6]" name="a2" duration-ms="1" started-at="2020-04-28T15:19:55 EDT" finished-at="2020-04-28T15:19:55 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a2 -->
-        <test-method status="PASS" signature="a4()[pri:0, instance:Criglist.TestClass2@18bf3d14]" name="a4" duration-ms="0" started-at="2020-04-28T15:06:40 EDT" finished-at="2020-04-28T15:06:40 EDT">
+        <test-method status="PASS" signature="a3()[pri:0, instance:Criglist.TestClass2@313b2ea6]" name="a3" duration-ms="1" started-at="2020-04-28T15:19:55 EDT" finished-at="2020-04-28T15:19:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method status="PASS" signature="a4()[pri:0, instance:Criglist.TestClass2@313b2ea6]" name="a4" duration-ms="1" started-at="2020-04-28T15:19:55 EDT" finished-at="2020-04-28T15:19:55 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a4 -->
-        <test-method status="PASS" signature="a3()[pri:0, instance:Criglist.TestClass2@18bf3d14]" name="a3" duration-ms="0" started-at="2020-04-28T15:06:40 EDT" finished-at="2020-04-28T15:06:40 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- a3 -->
       </class> <!-- Criglist.TestClass2 -->
       <class name="Criglist.TestClass1">
-        <test-method status="PASS" signature="a1()[pri:0, instance:Criglist.TestClass1@4fb64261]" name="a1" duration-ms="0" started-at="2020-04-28T15:06:40 EDT" finished-at="2020-04-28T15:06:40 EDT">
+        <test-method status="PASS" signature="a1()[pri:0, instance:Criglist.TestClass1@2f465398]" name="a1" duration-ms="1" started-at="2020-04-28T15:19:55 EDT" finished-at="2020-04-28T15:19:55 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a1 -->
-        <test-method status="PASS" signature="a2()[pri:0, instance:Criglist.TestClass1@4fb64261]" name="a2" duration-ms="0" started-at="2020-04-28T15:06:40 EDT" finished-at="2020-04-28T15:06:40 EDT">
+        <test-method status="PASS" signature="a2()[pri:0, instance:Criglist.TestClass1@2f465398]" name="a2" duration-ms="1" started-at="2020-04-28T15:19:55 EDT" finished-at="2020-04-28T15:19:55 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a2 -->
-        <test-method status="PASS" signature="a3()[pri:0, instance:Criglist.TestClass1@4fb64261]" name="a3" duration-ms="0" started-at="2020-04-28T15:06:40 EDT" finished-at="2020-04-28T15:06:40 EDT">
+        <test-method status="PASS" signature="a3()[pri:0, instance:Criglist.TestClass1@2f465398]" name="a3" duration-ms="0" started-at="2020-04-28T15:19:55 EDT" finished-at="2020-04-28T15:19:55 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a3 -->
-        <test-method status="PASS" signature="a4()[pri:0, instance:Criglist.TestClass1@4fb64261]" name="a4" duration-ms="0" started-at="2020-04-28T15:06:40 EDT" finished-at="2020-04-28T15:06:40 EDT">
+        <test-method status="PASS" signature="a4()[pri:0, instance:Criglist.TestClass1@2f465398]" name="a4" duration-ms="0" started-at="2020-04-28T15:19:55 EDT" finished-at="2020-04-28T15:19:55 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a4 -->
       </class> <!-- Criglist.TestClass1 -->
+      <class name="Criglist.PostIphone">
+        <test-method status="PASS" signature="commonAll()[pri:0, instance:Criglist.PostIphone@6a2b953e]" name="commonAll" is-config="true" duration-ms="18905" started-at="2020-04-28T15:19:36 EDT" finished-at="2020-04-28T15:19:55 EDT">
+          <reporter-output>
+            <line>
+              <![CDATA[******************************************Get Data Imported Staretd******************************************]]>
+            </line>
+            <line>
+              <![CDATA[******************************************Get Data Imported Ended******************************************]]>
+            </line>
+            <line>
+              <![CDATA[**************************************** initilize Driver MEthod Started ******************************************]]>
+            </line>
+            <line>
+              <![CDATA[**************************************** initilize Driver MEthod Ended ******************************************]]>
+            </line>
+            <line>
+              <![CDATA[******************************************Url Open Strated******************************************]]>
+            </line>
+            <line>
+              <![CDATA[******************************************Url Open Ended******************************************]]>
+            </line>
+            <line>
+              <![CDATA[******************************************Validate Url Strated******************************************]]>
+            </line>
+            <line>
+              <![CDATA[******************************************Validate Url Ended******************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- commonAll -->
+        <test-method status="PASS" signature="details()[pri:0, instance:Criglist.PostIphone@6a2b953e]" name="details" duration-ms="18610" started-at="2020-04-28T15:19:55 EDT" finished-at="2020-04-28T15:20:14 EDT">
+          <reporter-output>
+            <line>
+              <![CDATA[******************************************Get Data From Excel Started******************************************]]>
+            </line>
+            <line>
+              <![CDATA[******************************************Get Data From Excel Ended******************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- details -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Criglist.PostIphone@6a2b953e]" name="closeBrowser" is-config="true" duration-ms="1127" started-at="2020-04-28T15:20:14 EDT" finished-at="2020-04-28T15:20:15 EDT">
+          <reporter-output>
+            <line>
+              <![CDATA[****************************************** Expected Browser Close Started ******************************************]]>
+            </line>
+            <line>
+              <![CDATA[******************************************Expected Browser Closed ******************************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Criglist.PostIphone -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

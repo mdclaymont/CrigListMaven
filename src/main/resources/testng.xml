@@ -5,7 +5,7 @@
     <classes>
       <class name="Criglist.TestClass2"/>
       <class name="Criglist.TestClass1"/>
-      <class name="Criglist.Postphone"/>
+      <class name="Criglist.PostIphone"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
